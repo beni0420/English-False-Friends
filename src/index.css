@@ -1,0 +1,35 @@
+:root {
+  --color-pink-strong: #d977af;
+  --color-mauve: #9a5f78;
+  --color-light-pink: #e7d1dd;
+  --color-cyan: #3fa1a3;
+  --color-light-cyan: #b7e4e5;
+
+  --bg-color: #f7f2f5;
+  --card-bg: rgba(255, 255, 255, 0.85);
+  --text-main: #2d3748;
+  --text-muted: #5c6b7d;
+  --border-color: rgba(193, 130, 157, 0.2);
+
+  font-family: "Atkinson Hyperlegible", system-ui, sans-serif;
+  color-scheme: light;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100vh;
+  background: var(--bg-color);
+  color: var(--text-main);
+  overflow-x: hidden;
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
