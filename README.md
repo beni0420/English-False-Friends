@@ -58,3 +58,6 @@ The application uses centralized data structures to facilitate content managemen
 - **dictionaryData.ts**: Contains the array of objects with all terms, their correct meanings, and their false friends for each supported language.
 
 - **quizData.ts**: Stores the questions and answers for the game mode (Quiz).
+
+
+Developed by Maria Benito Arribas.
