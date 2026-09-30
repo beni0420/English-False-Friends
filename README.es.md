@@ -60,3 +60,6 @@ La aplicación utiliza estructuras de datos centralizadas para facilitar la gest
 - **dictionaryData.ts**: Contiene el array de objetos con todos los términos, sus significados correctos y sus falsos amigos para cada idioma soportado.
 
 - **quizData.ts**: Almacena las preguntas y respuestas para el modo de juego (Quiz).
+
+
+Desarrollado por María Benito Arribas.
