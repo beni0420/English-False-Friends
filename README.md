@@ -1,3 +1,5 @@
+Lee esto en español: [Español](README.es.md)
+
 # English False Friends: Guide to False Friends for Programmers
 
 This is an interactive web application designed to help developers and language learners (English, Spanish, French, Italian) identify and understand the most common "false friends" in the context of programming and software development.

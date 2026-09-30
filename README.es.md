@@ -1,3 +1,5 @@
+Read this in English: [English](README.md)
+
 # English False Friends: Guía de Falsos Amigos para Programadores
 
 Esta es una aplicación web interactiva diseñada para ayudar a los desarrolladores y estudiantes de idiomas (inglés, español, francés, italiano) a identificar y comprender los "falsos amigos" más comunes en el ámbito de la programación y el desarrollo de software.
